@@ -33,13 +33,14 @@ The goal of this project is to build a backend service that fetches weather data
 
 ## Setup and Installation
 ### 1. Clone the Repository
-git clone https://github.com/your-username/weather-api-wrapper-service.git
-cd weather-api-wrapper-service
+git clone https://github.com/WhoDoesFluttershyLike/Weather-API-Wrapper-Service.git
+
+cd Weather-API-Wrapper-Service
 ### 2. Install Dependencies
 mvn clean install
 ### 3. Set Up Redis
 Install and start Redis (local or hosted service). In my case i executed through the docker
-### 5. Run the Application
+### 4. Run the Application
 mvn spring-boot:run
 
 
